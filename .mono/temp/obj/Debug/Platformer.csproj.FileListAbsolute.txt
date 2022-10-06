@@ -1,0 +1,9 @@
+F:\Godot_Platformer\.mono\temp\bin\Debug\Platformer.dll
+F:\Godot_Platformer\.mono\temp\bin\Debug\Platformer.pdb
+F:\Godot_Platformer\.mono\temp\obj\Debug\Platformer.csproj.AssemblyReference.cache
+F:\Godot_Platformer\.mono\temp\obj\Debug\Platformer.GeneratedMSBuildEditorConfig.editorconfig
+F:\Godot_Platformer\.mono\temp\obj\Debug\Platformer.AssemblyInfoInputs.cache
+F:\Godot_Platformer\.mono\temp\obj\Debug\Platformer.AssemblyInfo.cs
+F:\Godot_Platformer\.mono\temp\obj\Debug\Platformer.csproj.CoreCompileInputs.cache
+F:\Godot_Platformer\.mono\temp\obj\Debug\Platformer.dll
+F:\Godot_Platformer\.mono\temp\obj\Debug\Platformer.pdb

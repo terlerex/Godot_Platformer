@@ -1,0 +1,62 @@
+
+
+                                                         - READ ME -  
+
+
+Thank you for using the playerSprites_...part of the fantasy_ series' of assets on itch.io!
+
+
+Stuff to know - Characters and Weapon animations
+
+- Each frame is 32x32 pixels
+- Each character animation has a right facing [columns 0-3] and left facing [columns 4-7] version
+- Each animation is 4 frames EXCEPT for the RUN and ROLL animations [8 frames]
+- Each weapon has a default sprite, followed by 3 empty frames, followed by its animations
+
+- Character animations [from top to bottom]
+  - mPlayer_ [human]
+    - spawn [row 0], idle [row 1], run [rows 2,3], jump [idle] [row 4], jump [run] [row 5], roll [rows 6,7],
+      turn [row 8], hit [row 9] and death [row 10]
+  - fPlayer_ [human]
+    - spawn [row 0], idle [row 1], run [rows 2,3], jump [idle] [row 4], jump [run] [row 5], roll [rows 6,7],
+      turn [row 8], hit [row 9] and death [row 10]
+  - mPlayer_ [elf]
+    - spawn [row 0], idle [row 1], run [rows 2,3], jump [idle] [row 4], jump [run] [row 5], roll [rows 6,7],
+      turn [row 8], hit [row 9] and death [row 10]
+  - fPlayer_ [elf]
+    - spawn [row 0], idle [row 1], run [rows 2,3], jump [idle] [row 4], jump [run] [row 5], roll [rows 6,7],
+      turn [row 8], hit [row 9] and death [row 10]
+  - mPlayer_ [dwarf]
+    - spawn [row 0], idle [row 1], run [rows 2,3], jump [idle] [row 4], jump [run] [row 5], roll [rows 6,7],
+      turn [row 8], hit [row 9] and death [row 10]
+  - fPlayer_ [dwarf]
+    - spawn [row 0], idle [row 1], run [rows 2,3], jump [idle] [row 4], jump [run] [row 5], roll [rows 6,7],
+      turn [row 8], hit [row 9] and death [row 10]
+
+- Weapon animations [from top to bottom]
+  - sword_ [stone, iron, gold and diamond]
+    - idle [row 0, COLUMN 0 ONLY], swing [right] [row 1], swing [left] [row 2], stab [row 3]
+  - shield_
+    - idle [row 0, COLUMN 0 ONLY], bash [row 1], hit [row 2]
+
+Stuff to know - Particle animations
+
+- Each frame is 8x8 pixels
+- Each animation is 6 frames
+
+
+
+Future updates - 
+
+- Upward-facing animations 
+- Spin animation
+- Updated death animation
+- More sword animations [magic!]
+
+If you have any questions or requests you can contact me at analogstudios.inc@gmail.com
+
+
+
+
+
+                                                             

@@ -1,0 +1,47 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Godot_Platformer\\Platformer.csproj": {}
+  },
+  "projects": {
+    "F:\\Godot_Platformer\\Platformer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Godot_Platformer\\Platformer.csproj",
+        "projectName": "Platformer",
+        "projectPath": "F:\\Godot_Platformer\\Platformer.csproj",
+        "packagesPath": "C:\\Users\\Maxence\\.nuget\\packages\\",
+        "outputPath": "F:\\Godot_Platformer\\.mono\\temp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Maxence\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
